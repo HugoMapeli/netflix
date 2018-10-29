@@ -1,16 +1,10 @@
 .fundoinicio {
-	background-image: url(../img/fundonetflix.jpg) 0 0 no-repeat fixed;
-    height: 100%;
-    overflow: hidden;
-    color: #000000
+	background: rgba(0,0,0,0.8);
+	background-image: url(../img/fundonetflix.jpg);
+	width: 100%;
+
 }
 
-.ajustecor{
-	background: rgba(39,62,84,0.82);
-    overflow: hidden;
-    height: 100%;
-    z-index: 2;
-}
 
 .logoinicio{
 	width: 33%;
@@ -52,5 +46,8 @@
 	color: white;
 	border:none;
 	font-size: 30px;
-	padding-right: 2%;
+	padding: 4%;
+	padding-left: 8%;
+	padding-right: 8%;
+	margin-top: 3%;
 }
