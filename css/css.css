@@ -1,0 +1,56 @@
+.fundoinicio {
+	background-image: url(../img/fundonetflix.jpg) 0 0 no-repeat fixed;
+    height: 100%;
+    overflow: hidden;
+    color: #000000
+}
+
+.ajustecor{
+	background: rgba(39,62,84,0.82);
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
+}
+
+.logoinicio{
+	width: 33%;
+	margin-top: -3%
+}
+
+.botaoentrar{
+	border-radius: 12%;
+	padding: 1%;
+	padding-left: 3%;
+	padding-right: 3%;
+	background-color: #E50914;
+	color: white;
+	border:none;
+	margin-left: 80%;
+	margin-top: 3%;
+}
+
+.texto1{
+	font-weight: 700;
+    font-size: 80px;
+    color: white;
+    text-shadow: 1px 1px #000000;
+    text-align: center;
+    margin-top: 7%;
+}
+
+.texto2{
+	font-weight: 400;
+    font-size: 30px;
+    color: white;
+    text-align: center;	
+    margin-top: 1%
+}
+
+.botaomesgratis{
+	border-radius: 6px;	
+	background-color: #E50914;
+	color: white;
+	border:none;
+	font-size: 30px;
+	padding-right: 2%;
+}
