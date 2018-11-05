@@ -1,9 +1,7 @@
 body {
 	background-color: black;
 }
-nav {
-	background-color: black;
-}
+
 
 .netflixinicio {
 	width: 17%;
@@ -100,4 +98,22 @@ h2 {
 .alinhamento3{
 	margin-top: 24%;
 	margin-bottom: 6%;
+}
+
+.rodape{
+	margin-top: 2%; 
+	margin-left: 1%; 
+	color: gray;
+	padding-bottom: 15%;
+}
+
+.login{
+	background-color: rgba(0,0,0,0.8);
+	opacity: 70%;
+	color: white;
+}
+
+.form{
+	background-color: rgb(69,69,69,0.8);
+	border: none;
 }
