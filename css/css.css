@@ -111,9 +111,24 @@ h2 {
 	background-color: rgba(0,0,0,0.8);
 	opacity: 70%;
 	color: white;
+	padding-left: 65px;
+	padding-right: 65px;
 }
 
 .form{
 	background-color: rgb(69,69,69,0.8);
 	border: none;
+}
+
+.botaologin{
+	font-size: 18px;
+	 font-weight: bold;
+	 padding-left: 130px;
+	 padding-right: 130px;
+}
+
+.linksemnada{
+	color: white;
+	 text-decoration: none;
+	 padding-bottom: 30px
 }
