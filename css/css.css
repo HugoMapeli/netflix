@@ -122,13 +122,26 @@ h2 {
 
 .botaologin{
 	font-size: 18px;
-	 font-weight: bold;
-	 padding-left: 130px;
-	 padding-right: 130px;
+	font-weight: bold;
+	padding-left: 130px;
+	padding-right: 130px;
 }
 
 .linksemnada{
 	color: white;
-	 text-decoration: none;
-	 padding-bottom: 30px
+	text-decoration: none;
+	padding-bottom: 30px
 }
+
+.qassiste{
+	font-size: 3.5vw;
+	color: white;
+	margin-top: 4%;
+}
+
+.tst {
+    border: .3em solid rgba(0,0,0,.4);
+    background-size: cover;
+    background-color: #333;
+}
+
